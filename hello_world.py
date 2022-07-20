@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 print("Hello World!")
-=======
-print("Hello world!")
->>>>>>> tuni_intermediate/master
+print("Hello from feature")
